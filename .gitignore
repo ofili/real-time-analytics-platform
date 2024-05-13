@@ -145,5 +145,7 @@ cython_debug/
 alembic.ini
 alembic/
 
-# Schema
-schema.yml
+
+# Dev
+data/
+*/config.yaml
